@@ -1,0 +1,8 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+//    "assumeChangesOnlyAffectDirectDependencies": true,
+    "baseUrl": "src",
+    "outDir": "dist"
+  }
+}
